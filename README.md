@@ -4,6 +4,8 @@
   <p>
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white"/> 
  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/> 
+   
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hhh131&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--#147EFB
 **hhh131/hhh131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.#F05138
 
